@@ -19,7 +19,6 @@ The servers can connect to the internet by using the NAT gateway.
 
 ## Prerequisites:
 Before you get started, make sure you have the following prerequisites set:
-
 - An Aws account
 
 ## Project Scope
